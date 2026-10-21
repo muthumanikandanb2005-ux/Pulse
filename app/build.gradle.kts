@@ -104,12 +104,14 @@ android {
         }
     }
 
+    /*
     externalNativeBuild {
         cmake {
             path = file("src/main/cpp/CMakeLists.txt")
             version = "3.22.1"
         }
     }
+    */
 
     // applicationId can only be overridden per flavor, not per build type, so a
     // dev/prod dimension exists purely to let both sit installed side by side
@@ -118,8 +120,8 @@ android {
     productFlavors {
         create("dev") {
             dimension = "env"
-            applicationId = "com.dev.bitchord"
-            resValue("string", "app_name", "BitChord Dev")
+            applicationId = "com.dev.pulse"
+            resValue("string", "app_name", "Pulse Dev")
         }
         create("prod") {
             dimension = "env"
