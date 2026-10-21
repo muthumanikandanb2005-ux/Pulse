@@ -14,6 +14,7 @@
 [![Latest release](https://img.shields.io/github/v/release/muthumanikandanb2005-ux/Pulse?style=for-the-badge&labelColor=0d1117)](https://github.com/muthumanikandanb2005-ux/Pulse/releases)
 [![License](https://img.shields.io/github/license/muthumanikandanb2005-ux/Pulse?style=for-the-badge&labelColor=0d1117)](https://github.com/muthumanikandanb2005-ux/Pulse/blob/main/LICENSE)
 [![Downloads](https://img.shields.io/github/downloads/muthumanikandanb2005-ux/Pulse/total?style=for-the-badge&labelColor=0d1117)](https://github.com/muthumanikandanb2005-ux/Pulse/releases)
+<a href="https://github.com/RookieEnough/Orion-Data/issues/2106"><img src="https://img.shields.io/badge/Orion%20Store-Submitted-purple?style=for-the-badge&labelColor=0d1117" alt="Orion Store" /></a>
 
 <br/>
 
